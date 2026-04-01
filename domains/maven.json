@@ -4,6 +4,6 @@
     "email": "manasbiswal0604@gmail.com"
   },
   "records": {
-    "CNAME": "mavendiaries.netlify.app"
+    "A": ["185.27.134.24"]
   }
 }
